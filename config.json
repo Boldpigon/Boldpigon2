@@ -1,6 +1,6 @@
 {
-	"ip":"BoldpigonSmp.aternos.me",
+	"ip":"boldpigonSmp.aternos.me",
 	"port": "25565",
 	"name": "Boldpigon",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
